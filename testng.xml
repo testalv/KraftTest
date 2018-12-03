@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Test">
+    <test name="Example">
+        <classes>
+            <class name="TestKraft.TestKraft" />
+            <class name="TestKraft.BaseTest" />
+        </classes>
+    </test>
+</suite>
